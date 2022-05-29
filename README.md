@@ -1,3 +1,3 @@
-# learning
+# Learning
 Practicing commands here
 
